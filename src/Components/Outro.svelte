@@ -1,13 +1,11 @@
 <div class="mainDiv">
     <ul class="menu_top">
-        <li><a href="https://vk.com/bonch.science">Остались вопросы?</a></li>
-        <li><a href="https://vk.com/graveyardsinger">Нашли ошибку?</a></li>
-        <li><a href="https://vk.com/bonch.science">Группа Вконтакте</a></li>
+        <li><a href="https://vk.com/meogol">Остались вопросы?</a></li>
+        <li><a href="https://vk.com/meogol">Нашли ошибку?</a></li>
     </ul>
 
     <div class="QrPlusText">
-        <img class="QR" src="images/QR.gif" alt="Qr код со ссылкой на группу вконтакте">
-        <p id="siteRef"><a href="https://vk.com/bonch.science"> https://vk.com/bonch.science</a></p>
+        <img class="QR" src="images/QR.gif" alt="Qr код со ссылкой на сайт-источник">
     </div>
 </div>
 
