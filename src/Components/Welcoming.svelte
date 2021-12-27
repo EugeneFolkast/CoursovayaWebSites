@@ -4,12 +4,8 @@
         Добро пожаловать!
     </h1>
     <h2 class="welcoming-bochscience">
-        #Bonch.Science
+        #"Котики рулят" <br> ©Мяо Цзедун
     </h2>
-    <p class="noc-nil">
-        *НОЦ - Научно-образовательный центр. <br>
-        *НИЛ - Научно-исследовательская лаборатория.
-    </p>
 
 </div>
 
@@ -21,11 +17,8 @@
     .welcoming-bochscience{
         margin-left: 30px;
         font-size: 30px;
-        color: #FFA927;
-    }
-    .noc-nil{
-        font-size: 9px;
-        margin-left: 20px;
+        color: #7efff8;
+        text-shadow: 0px 0px 5px #333333;
     }
 
 </style>

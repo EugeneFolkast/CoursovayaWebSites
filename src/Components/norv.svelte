@@ -121,17 +121,6 @@
     #tiosInfoHolderID{
         display: none;
     }
-    #3dPrinterText{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    .machineryPics{
-        margin: auto;
-        border-radius: 10px;
-        height: auto;
-        width: 100%;
-    }
     #machinesHolderID{
         display: none;
     }
@@ -140,54 +129,6 @@
     }
     #btnIntiosInfoHolder{
 
-    }
-    .spacerSmall{
-        padding: 20px;
-    }
-    #laser{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #tokar{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #ultrafio{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #diyprinter{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #raspberry{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #cyclon{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #generator{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #hacker{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
-    }
-    #platform{
-        margin:10px;
-        font-size: 3.5vw;
-        word-break: break-all;
     }
 
 </style>

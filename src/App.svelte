@@ -1,11 +1,12 @@
 <script>
-    import MediacenterAndRadio from "./Components/MediacenterAndRadio.svelte";
+    import MediacenterAndRadio from "./Components/Abissian.svelte";
     import Welcoming from "./Components/Welcoming.svelte";
-    import BIS from "./Components/nocBIS.svelte";
-    import IKNA from "./Components/nocInfokomAndNeuroArchitecht.svelte";
-    import IOT from "./Components/nilIoT.svelte";
+    import BIS from "./Components/sibir.svelte";
+    import IKNA from "./Components/pers.svelte";
+    import IOT from "./Components/brit.svelte";
     import Outro from "./Components/Outro.svelte";
-    import Tios from "./Components/nocTios.svelte";
+    import Tios from "./Components/norv.svelte";
+    import Abissian from "./Components/Abissian.svelte";
 </script>
 
 
@@ -13,17 +14,14 @@
 
 <main>
     <header>
-        <img src="images/bonchlogo.jpg" alt="Лого СПбГУТ">
-        <button class="btn-home" title="Домой">
-            <img class="img-button" src="images/homebutton.png" alt="Кнопка 'Домой'">
-        </button>
+        <img src="images/catIcon.png" alt="Котик-звёздочка">
     </header>
 
     <Welcoming/>
 
     <hr color="white">
 
-    <MediacenterAndRadio/>
+    <Abissian/>
 
     <hr color="#EBEDF0" class="spacer">
 
@@ -61,6 +59,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
+        background-color: #9cfcff;
 
     }
 
